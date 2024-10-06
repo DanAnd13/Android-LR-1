@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LR-1</string>
+    <string name="Title">It`s my first android app</string>
+    <string name="button_Class">Class</string>
+    <string name="button_XML">XML</string>
+    <string name="onbuttonclick_in_xml">OnButtonClick in XML</string>
+    <string name="onbuttonclick_in_own_class">OnButtonClick in own class</string>
+</resources>
